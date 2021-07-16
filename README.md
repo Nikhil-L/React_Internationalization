@@ -1,3 +1,5 @@
+# This is the project attempted to try the working of React internationalization using 'react-intl' module
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
